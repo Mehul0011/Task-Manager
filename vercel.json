@@ -15,7 +15,7 @@
       "dest": "public/"
     },
     {
-      "src": "/api/v1/tasks/(.*)",
+      "src": "/(.*)",
       "dest": "/app.js"
     }
   ]
